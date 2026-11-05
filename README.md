@@ -2,9 +2,7 @@
 
 Vadim Chekmachev · chekmachev@phystech.edu · ORCID [0009-0009-2982-0532](https://orcid.org/0009-0009-2982-0532)
 
-GitHub repository: https://github.com/coelto/logarithmic-laplacian-hadamard-boundary-balance.
-
-DOI of all versions: [10.5281/zenodo.23848534](https://doi.org/10.5281/zenodo.23848534).
+DOI of all versions: [![10.5281/zenodo.23848534](https://zenodo.org/badge/DOI/10.5281/zenodo.23848534.svg)](https://doi.org/10.5281/zenodo.23848534)
 
 ## Abstract
 
@@ -36,7 +34,7 @@ Each version of the paper is a separate version of a single Zenodo record with i
 
 The numerical statements of the paper and its figures were obtained from data published in a separate Zenodo record. All versions of this record are listed below.
 
-DOI of all versions: [10.5281/zenodo.23186383](https://doi.org/10.5281/zenodo.23186383).
+DOI of all versions: [![10.5281/zenodo.23186383](https://zenodo.org/badge/DOI/10.5281/zenodo.23186383.svg)](https://doi.org/10.5281/zenodo.23186383)
 
 | Version | Publication date | DOI | Title |
 |---|---|---|---|
