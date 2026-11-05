@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Logarithmic Laplacian, Hadamard formula and boundary balance for the infimum of the truncated Weil form"
+authors:
+  - family-names: "Chekmachev"
+    given-names: "Vadim"
+    orcid: "https://orcid.org/0009-0009-2982-0532"
+version: "2.0"
+date-released: "2026-11-05"
+doi: "10.5281/zenodo.23848534"
+license-url: "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html"
+url: "https://doi.org/10.5281/zenodo.23848534"
+message: "When using this paper, cite it by its DOI."
+repository-code: "https://github.com/coelto/logarithmic-laplacian-hadamard-boundary-balance"
