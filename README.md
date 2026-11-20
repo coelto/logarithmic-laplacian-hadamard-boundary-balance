@@ -17,8 +17,10 @@ The repository contains the PDF of the paper, the notes on the changes in this v
 | File | Size, bytes | SHA-256 | MD5 |
 |---|---|---|---|
 | `chekmachev-logarithmic-laplacian-hadamard-boundary-balance-v3.pdf` | 1085614 | `fb31a9faf18c30789c03db3a2651d12264dede184da6547e91970465d153b95b` | `795ed74ce1a83adeed36e66b3b41de4c` |
-| `chekmachev-logarithmic-laplacian-hadamard-boundary-balance-v3.pdf.ots` | 805 | `75be88ca3f6ff53d492f187ff6cc2fe07e471e78897f412a9ffb8454fcafc2c2` | `88bc5c94ec9314ec8244360e1b5b2b2e` |
+| `chekmachev-logarithmic-laplacian-hadamard-boundary-balance-v3.pdf.ots` | 2700 | `f0a572990288adc862d32c461a867a0006f2470ccc5082050c129f5c482f505f` | `53836530dcb9a7a89fbe93e45448e821` |
 | `version-notes-v3.txt` | 1492 | `5f8d12292ca2710ed1b812fe7035d02f0387b6493d10800b1a6ae94cd3839471` | `88389fbf0a7ee113a528d7913e331fdd` |
+
+OpenTimestamps time (UTC): 2026-11-20 19:56:51.
 
 ## Version history
 
